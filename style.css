@@ -11,6 +11,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 10px;
 
 }
 .half-width{
@@ -35,4 +36,25 @@ p{
 .top-banner{
     background-image: url(luma.jpg);
     border-image-repeat: no-repeat;
+}
+
+.dream-big img{
+    width:80%;
+    padding-left : 5%;
+}
+.dream-big {
+    width: 80%;
+}
+p{
+    text-align: justify;
+}
+
+
+.middle-banner{
+    background-image: url(luma.jpg);
+    border-image-repeat: no-repeat;
+}
+form{
+    background-image: url(luma.jpg);
+
 }
